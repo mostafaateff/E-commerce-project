@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/E-commerce-project/static/css/main.383c0477.css",
+    "main.js": "/E-commerce-project/static/js/main.bccda25c.js",
+    "static/js/453.4297e0f3.chunk.js": "/E-commerce-project/static/js/453.4297e0f3.chunk.js",
+    "static/media/slider-image-1.jpeg": "/E-commerce-project/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/slider-image-3.jpeg": "/E-commerce-project/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/logo-credit-card.png": "/E-commerce-project/static/media/logo-credit-card.92bfa8d07933798d0fa0.png",
+    "static/media/slider-image-2.jpeg": "/E-commerce-project/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/error.svg": "/E-commerce-project/static/media/error.d1c816124952392560da8de0e6c728b4.svg",
+    "static/media/express-credit-card.png": "/E-commerce-project/static/media/express-credit-card.f9347ec8d9b5e6699eed.png",
+    "static/media/freshcart-logo.svg": "/E-commerce-project/static/media/freshcart-logo.af33f2cb2a100f447f3b8c388932e12a.svg",
+    "static/media/Download on the App Store.svg": "/E-commerce-project/static/media/Download on the App Store.81453d91d3fd360f8d09824cb9edbcca.svg",
+    "static/media/Google_Play-Logo.wine.svg": "/E-commerce-project/static/media/Google_Play-Logo.wine.34b172986eecb6ca8f09897c0b4461f1.svg",
+    "static/media/Amazon_Pay-Logo.wine.svg": "/E-commerce-project/static/media/Amazon_Pay-Logo.wine.de8be4320fe353035e70d10906a50cdf.svg",
+    "static/media/paypal-seeklogo.svg": "/E-commerce-project/static/media/paypal-seeklogo.8863bdc31ec73114fb6f2cfbd965c84f.svg",
+    "static/media/slick.svg": "/E-commerce-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce-project/index.html",
+    "main.383c0477.css.map": "/E-commerce-project/static/css/main.383c0477.css.map",
+    "main.bccda25c.js.map": "/E-commerce-project/static/js/main.bccda25c.js.map",
+    "453.4297e0f3.chunk.js.map": "/E-commerce-project/static/js/453.4297e0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383c0477.css",
+    "static/js/main.bccda25c.js"
+  ]
+}
